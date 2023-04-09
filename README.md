@@ -1,4 +1,4 @@
-Note: I created this projectt in 2020, uploading it now. let me know of any issues.
+Note: I created this projectt in 2020, uploading it now.
 # E-Commerce Florist Website
 
 Description: The project  E-Commerce florist website where the user can purchase products online. The user can create their account by registering themselves with a unique username and password and then log into the portal site to browse products and purchase them. Since, modern door-to-door business and manual methods by purchasing products in markets at certain outlets seem to have a drawback, the online method of purchasing products are coming into effect and are much affordable.
