@@ -1,3 +1,4 @@
+Note: I created this projectt in 2020, uploading it now. let me know of any issues.
 # E-Commerce Florist Website
 
 Description: The project  E-Commerce florist website where the user can purchase products online. The user can create their account by registering themselves with a unique username and password and then log into the portal site to browse products and purchase them. Since, modern door-to-door business and manual methods by purchasing products in markets at certain outlets seem to have a drawback, the online method of purchasing products are coming into effect and are much affordable.
@@ -36,7 +37,7 @@ You will receive a confirmation email with your order details.
 ## 🛠 Skills
 The programming tool used is VS CODE and the programming language used is JavaScript, HTML CSS, PHP, Bootstrap, SQL.
 
-WEBSITE SCREENSHORT
+# Website Screenshort
 
 
 ![11](https://user-images.githubusercontent.com/50737229/230770247-658a7bbc-1c89-41c3-bdf4-d40ca5ce3cf6.png)
