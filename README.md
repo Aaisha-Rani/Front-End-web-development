@@ -34,5 +34,15 @@ Fill in the required information and choose your preferred payment method.
 Review your order and click on the "Place Order" button.
 You will receive a confirmation email with your order details.
 ## 🛠 Skills
-The programming tool used is VS CODE and the programming language used is JavaScript, HTML CSS, PHP, Bootstrap.
+The programming tool used is VS CODE and the programming language used is JavaScript, HTML CSS, PHP, Bootstrap, SQL.
 
+WEBSITE SCREENSHORT
+
+
+![11](https://user-images.githubusercontent.com/50737229/230770247-658a7bbc-1c89-41c3-bdf4-d40ca5ce3cf6.png)
+![44](https://user-images.githubusercontent.com/50737229/230770276-c6117373-4ef7-4b33-95c0-88f4a098cda9.png)
+![55](https://user-images.githubusercontent.com/50737229/230770278-56bd35c3-7ea7-43b4-9200-fd5f98faa9ca.png)
+![66](https://user-images.githubusercontent.com/50737229/230770279-48de8052-d013-40b7-9cc1-a218be078621.png)
+![77](https://user-images.githubusercontent.com/50737229/230770281-f73ad45d-3380-45f5-be7a-745c0dc2886d.png)
+![22](https://user-images.githubusercontent.com/50737229/230770284-f3d58154-b505-49cf-b6d8-1e81a14b995c.png)
+![33](https://user-images.githubusercontent.com/50737229/230770286-a7c88684-3659-4998-9183-f8b25cb303b4.png)
